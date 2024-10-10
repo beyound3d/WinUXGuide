@@ -4,4 +4,19 @@
   ```
 
  - ```
+   msconfig
+   ```
+
+ - ```
+   systeminfo
+   ```
+   
+ - ```
+   sysdm.cpl
+   ```
+   
+ - ```
+   
+     
+    
     
