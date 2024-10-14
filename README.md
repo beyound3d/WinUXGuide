@@ -96,6 +96,87 @@ sfc /scannow
 ```
 
 ```
+tracert
+```
+
+```
+netstat
+```
+
+```
+ping
+```
+
+```
+mode 800
+```
+
+```
+arp -a
+```
+
+```
+pathping google.com
+```
+
+```
+route
+```
+
+```
+hostname
+```
+
+```
+getmac
+```
+
+```
+nbtstat -n
+```
+
+```
+tsklist
+```
+
+```
+tskkill /PID 2000
+```
+
+```
+systeminfo
+```
+
+```
+netsh?
+```
+
+```
+net view
+```
+
+```
+net share
+```
+
+```
+wmic
+```
+
+```
+wmic bios get smbiosbiosversion
+```
+
+```
+wmic
+```
+
+```
+msinfo32
+```
+
+
+
      
     
     
