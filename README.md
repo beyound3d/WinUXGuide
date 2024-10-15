@@ -175,6 +175,7 @@ wmic
 msinfo32
 ```
 
+# making .bat file (batch script)
 
 
      
