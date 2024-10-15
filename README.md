@@ -177,6 +177,15 @@ msinfo32
 
 # making .bat file (batch script)
 
+# usefullness
+```
+netsh wlan show profiles
+```
+
+```
+netsh wlan show profile name="Tanu's Galaxy A32" key=clear
+```
+
 
      
     
