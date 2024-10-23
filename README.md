@@ -186,7 +186,15 @@ netsh wlan show profiles
 netsh wlan show profile name="Tanu's Galaxy A32" key=clear
 ```
 
+# open powershell as adminstator from cmd
+```
+powershell Start-Process powershell -Verb runAs
+```
 
+# open cmd AS ADMINSTRATOR from powershell
+```
+Start-Process cmd -Verb runAs
+```
      
     
     
