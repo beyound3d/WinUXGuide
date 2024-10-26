@@ -65,7 +65,19 @@ to open control panel
 control panel
 ```
 
-# 🧹Cleanup   
+# 🧹Cleanup  
+```
+%temp%
+```
+
+```
+tree
+```
+
+```
+prefetch
+```
+
 
 # 💬cmd
 ```
