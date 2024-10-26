@@ -16,7 +16,15 @@
    ```
    
  - ```
+   cleanmgr
+   ```
 
+ - ```
+   services.msc
+   ```
+ - ```
+   taskmgr  
+   ```
 
 # cmd
 ```
