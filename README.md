@@ -60,6 +60,11 @@ to open task manager
    taskmgr  
    ```
 
+to open control panel
+```
+control panel
+```
+
 # 🧹Cleanup   
 
 # 💬cmd
