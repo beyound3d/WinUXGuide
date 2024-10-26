@@ -24,7 +24,7 @@
 
 ## Troubleshooting
   **Run System File Checker:** Open Command Prompt as admin and type `sfc /scannow`
-# Run
+# 🏃‍➡️Run
 to open disk management
 - ```
   diskmgmt.msc
@@ -60,9 +60,9 @@ to open task manager
    taskmgr  
    ```
 
-# Cleanup   
+# 🧹Cleanup   
 
-# cmd
+# 💬cmd
 ```
 tasklist
 ```
