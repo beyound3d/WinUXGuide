@@ -1,27 +1,35 @@
 # Run
+to open disk management
 - ```
   diskmgmt.msc
   ```
 
+to open system configuaration
  - ```
    msconfig
    ```
 
+to open to check system info open some in cmd
  - ```
    systeminfo
    ```
-   
+
+to open system properties   
  - ```
    sysdm.cpl
    ```
-   
+
+to open Disk cleanup
  - ```
    cleanmgr
    ```
 
+to open services
  - ```
    services.msc
    ```
+
+to open task manager   
  - ```
    taskmgr  
    ```
