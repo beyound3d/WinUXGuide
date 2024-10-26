@@ -18,7 +18,7 @@
 - **Create New Desktop:** Press `Windows + Ctrl + D`.
 - **Switch Desktops:** Press `Windows + Ctrl + Left/Right Arrow`
 
-  ## Customization Options
+## Customization Options
 ### Customize Start Menu
 - **Pin/Unpin Tiles:** Right-click on the Start menu item and select `Pin to Start` or `Unpin from Start`
 
