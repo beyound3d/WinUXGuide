@@ -65,6 +65,10 @@ to open control panel
 control panel
 ```
 
+to open computer management
+```
+compmgmt.msc
+```
 # 🧹Cleanup  
 ```
 %temp%
