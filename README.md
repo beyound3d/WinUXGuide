@@ -240,6 +240,11 @@ wmic
 msinfo32
 ```
 
+# to see active connection in port 
+```
+netstat -ano
+```
+
 # making .bat file (batch script)
 
 # usefullness
