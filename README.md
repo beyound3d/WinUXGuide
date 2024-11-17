@@ -5,6 +5,9 @@
 3. Productivity Tips
 4. Customization Options
 5. Troubleshooting
+
+## File Extension
+.exe
    
 ##  Accessibility Features
 ### Narrator
