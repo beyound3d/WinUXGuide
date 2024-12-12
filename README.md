@@ -92,6 +92,11 @@ tasklist
 ```
 
 ```
+taskkill /f /im google.exe
+```
+
+
+```
 ipconfig
 ```
 
