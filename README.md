@@ -60,6 +60,8 @@ Note: You can add some more file types (file extensions) to take their backup us
 
 ## Troubleshooting
   **Run System File Checker:** Open Command Prompt as admin and type `sfc /scannow`
+  ![image](https://github.com/user-attachments/assets/d0b3a805-a74e-4027-8ed5-ec425edb42b2)
+
 # 🏃‍➡️Run
 to open disk management
 - ```
