@@ -1,5 +1,7 @@
 # 🪟Windows Usability Features Guide
 ![image](https://github.com/user-attachments/assets/3c4d8079-2e60-4532-a97a-f42e7c2b75be)
+![image](https://github.com/user-attachments/assets/91186e12-23d7-4576-bad3-ef07b92636c6)
+
 
 ## Table of Contents
 1. Introduction
