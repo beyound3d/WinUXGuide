@@ -1,4 +1,6 @@
 # 🪟Windows Usability Features Guide
+![image](https://github.com/user-attachments/assets/9a11ef36-734e-49ce-ac1f-e137a0ec51b5)
+
 ![image](https://github.com/user-attachments/assets/87010ef1-19e7-4bbd-8d2a-9ce169c5155f)
 
 ![image](https://github.com/user-attachments/assets/3c4d8079-2e60-4532-a97a-f42e7c2b75be)
